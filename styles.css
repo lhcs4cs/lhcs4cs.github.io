@@ -1,0 +1,26 @@
+body{
+  background: url("background.jpg");
+}
+h1{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+}
+h2{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  text-align: center;
+  width: auto;
+  padding: 10px;
+  border: 5px soliday gray;
+
+}
+img{
+  border: 3px solid #f542a1;
+  padding: 3px
+}
+button{
+  position: relative;
+}
